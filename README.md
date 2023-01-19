@@ -3,6 +3,7 @@ I have been asked to help develop a new website for a new camping equipment reta
 
 The Retail Camping Company has the following basic requirements for the contents of the 
 website:
+
 • Home Page: 
    o This page will introduce visitors to the special offers that are available and it should include relevant images of camping equipment such as tents,   cookers 
 and camping gear such as furniture and cookware.
